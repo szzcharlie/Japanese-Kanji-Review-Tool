@@ -11,7 +11,7 @@ Before running the program:
 
 3. Please have at least 10 words in the learning history before you try on the quiz and game feature.
 
-4. If you do not want to create your own csv file which records your learning history, download csv file 'kanji_dict.csv' to the same directory so that you can directly use it. There are already 12 words inside this csv file.
+4. If you do not want to create your own csv file which records your learning history, download csv file 'kanji_dict.csv' to the same directory so that you can directly use it. There are already 20 words inside this csv file.
 
 Now, you can open the file 'final_project.py' in python and run it, to start the program.
 
